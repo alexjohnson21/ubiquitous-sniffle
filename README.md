@@ -1,2 +1,1 @@
-# ubiquitous-sniffle
-A great repo with an even better name.
+# CSE 450 - Machine Learning and Data Mining
